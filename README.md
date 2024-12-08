@@ -1,6 +1,6 @@
 # Redogör översiktligt hur applikationen fungerar.
 
-Applikationen fungerar genom att man söker på måltider (på engelska t.ex "meat") från apiet themealdb, sen får man upp några resultat som man kan spara som en favorit till Your Recipes sidan. Favoritrecepten spara i localstorage, vilket kanske inte är det bästa sättet eftersom att man kanske egentligen skulle vilja spara det i en databas med users osv.
+Applikationen fungerar genom att man söker på måltider (på engelska t.ex "meat") från apiet themealdb, sen får man upp några resultat som man kan spara som en favorit till Your Recipes sidan. Favoritrecepten spara i localstorage, vilket kanske inte är det bästa sättet eftersom att man kanske egentligen skulle vilja spara det i en databas med users osv. Men jag valde i det här fallet att fokusera mer på grunderna inom Vue och att lära mig hur det fungerar.
 
 # Beskriv hur du använt AI utveckling av din applikation.
 
